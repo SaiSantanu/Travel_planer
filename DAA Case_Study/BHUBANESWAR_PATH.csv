@@ -1,0 +1,401 @@
+node 1,node 2,distance(Km.)
+Baramunda Bus Stand,Baramunda Bus Stand,0
+Baramunda Bus Stand,dhauli shanti stupa,15
+Baramunda Bus Stand,Pathanisamanta planetarium,5.8
+Baramunda Bus Stand,lingaraj temple,8.1
+Baramunda Bus Stand,rajarani temple,7.9
+Baramunda Bus Stand,mukteswara temple,8.4
+Baramunda Bus Stand,Ram mandir,7.7
+Baramunda Bus Stand,Ananta basudev temple,7.7
+Baramunda Bus Stand,ISKON Temple,3.3
+Baramunda Bus Stand,Bindu Sarovara,7.5
+Baramunda Bus Stand,Kedar Gouri Temple,7.6
+Baramunda Bus Stand,Ekamra Kanan Botanical Garden,4.9
+Baramunda Bus Stand,Chandaka Reserve forest,25
+Baramunda Bus Stand,Tikarpada wildlife Sanctuary,139
+Baramunda Bus Stand,Nandanakanan Zoological park,17
+Baramunda Bus Stand,Ocean world water park,27
+Baramunda Bus Stand,Chilika lake,39
+Baramunda Bus Stand,Indira Gandhi park,5.6
+Baramunda Bus Stand,Udayagiri and khandagiri caves,2.5
+Baramunda Bus Stand,Biju pattnaik park,5.2
+dhauli shanti stupa,Baramunda Bus Stand,16
+dhauli shanti stupa,dhauli shanti stupa,0
+dhauli shanti stupa,Pathanisamanta planetarium,14
+dhauli shanti stupa,lingaraj temple,7.2
+dhauli shanti stupa,rajarani temple,7.9
+dhauli shanti stupa,mukteswara temple,7.7
+dhauli shanti stupa,Ram mandir,12
+dhauli shanti stupa,Ananta basudev temple,7.5
+dhauli shanti stupa,ISKON Temple,15
+dhauli shanti stupa,Bindu Sarovara,7.5
+dhauli shanti stupa,Kedar Gouri Temple,7.8
+dhauli shanti stupa,Ekamra Kanan Botanical Garden,17
+dhauli shanti stupa,Chandaka Reserve forest,39
+dhauli shanti stupa,Tikarpada wildlife Sanctuary,159
+dhauli shanti stupa,Nandanakanan Zoological park,29
+dhauli shanti stupa,Ocean world water park,20
+dhauli shanti stupa,Chilika lake,30
+dhauli shanti stupa,Indira Gandhi park,11
+dhauli shanti stupa,Udayagiri and khandagiri caves,15
+dhauli shanti stupa,Biju pattnaik park,10
+Pathanisamanta planetarium,Baramunda Bus Stand,6.4
+Pathanisamanta planetarium,dhauli shanti stupa,15
+Pathanisamanta planetarium,Pathanisamanta planetarium,0
+Pathanisamanta planetarium,lingaraj temple,8.5
+Pathanisamanta planetarium,rajarani temple,7.7
+Pathanisamanta planetarium,mukteswara temple,8.2
+Pathanisamanta planetarium,Ram mandir,4.1
+Pathanisamanta planetarium,Ananta basudev temple,8.1
+Pathanisamanta planetarium,ISKON Temple,4.5
+Pathanisamanta planetarium,Bindu Sarovara,7.9
+Pathanisamanta planetarium,Kedar Gouri Temple,8
+Pathanisamanta planetarium,Ekamra Kanan Botanical Garden,5
+Pathanisamanta planetarium,Chandaka Reserve forest,30
+Pathanisamanta planetarium,Tikarpada wildlife Sanctuary,0
+Pathanisamanta planetarium,Nandanakanan Zoological park,13
+Pathanisamanta planetarium,Ocean world water park,21
+Pathanisamanta planetarium,Chilika lake,0
+Pathanisamanta planetarium,Indira Gandhi park,4.1
+Pathanisamanta planetarium,Udayagiri and khandagiri caves,9.4
+Pathanisamanta planetarium,Biju pattnaik park,6.2
+lingaraj temple,Baramunda Bus Stand,8.6
+lingaraj temple,dhauli shanti stupa,7.2
+lingaraj temple,Pathanisamanta planetarium,8
+lingaraj temple,lingaraj temple,0
+lingaraj temple,rajarani temple,2
+lingaraj temple,mukteswara temple,2
+lingaraj temple,Ram mandir,5.3
+lingaraj temple,Ananta basudev temple,0.8
+lingaraj temple,ISKON Temple,8.7
+lingaraj temple,Bindu Sarovara,0.8
+lingaraj temple,Kedar Gouri Temple,1.2
+lingaraj temple,Ekamra Kanan Botanical Garden,10
+lingaraj temple,Chandaka Reserve forest,32
+lingaraj temple,Tikarpada wildlife Sanctuary,0
+lingaraj temple,Nandanakanan Zoological park,20
+lingaraj temple,Ocean world water park,18
+lingaraj temple,Chilika lake,0
+lingaraj temple,Indira Gandhi park,4.5
+lingaraj temple,Udayagiri and khandagiri caves,9.1
+lingaraj temple,Biju pattnaik park,3.1
+rajarani temple,Baramunda Bus Stand,8.4
+rajarani temple,dhauli shanti stupa,7.9
+rajarani temple,Pathanisamanta planetarium,7.1
+rajarani temple,lingaraj temple,2.1
+rajarani temple,rajarani temple,0
+rajarani temple,mukteswara temple,1.2
+rajarani temple,Ram mandir,4.5
+rajarani temple,Ananta basudev temple,1.2
+rajarani temple,ISKON Temple,7.9
+rajarani temple,Bindu Sarovara,1.1
+rajarani temple,Kedar Gouri Temple,1.2
+rajarani temple,Ekamra Kanan Botanical Garden,9.5
+rajarani temple,Chandaka Reserve forest,32
+rajarani temple,Tikarpada wildlife Sanctuary,0
+rajarani temple,Nandanakanan Zoological park,19
+rajarani temple,Ocean world water park,16
+rajarani temple,Chilika lake,0
+rajarani temple,Indira Gandhi park,3.7
+rajarani temple,Udayagiri and khandagiri caves,11
+rajarani temple,Biju pattnaik park,2.9
+mukteswara temple,Baramunda Bus Stand,8.9
+mukteswara temple,dhauli shanti stupa,7.8
+mukteswara temple,Pathanisamanta planetarium,7.1
+mukteswara temple,lingaraj temple,1.8
+mukteswara temple,rajarani temple,0.6
+mukteswara temple,mukteswara temple,0
+mukteswara temple,Ram mandir,4.5
+mukteswara temple,Ananta basudev temple,1.2
+mukteswara temple,ISKON Temple,7.9
+mukteswara temple,Bindu Sarovara,1
+mukteswara temple,Kedar Gouri Temple,1.1
+mukteswara temple,Ekamra Kanan Botanical Garden,9.5
+mukteswara temple,Chandaka Reserve forest,32
+mukteswara temple,Tikarpada wildlife Sanctuary,0
+mukteswara temple,Nandanakanan Zoological park,19
+mukteswara temple,Ocean world water park,16
+mukteswara temple,Chilika lake,0
+mukteswara temple,Indira Gandhi park,3.6
+mukteswara temple,Udayagiri and khandagiri caves,10
+mukteswara temple,Biju pattnaik park,2.8
+Ram mandir,Baramunda Bus Stand,8.3
+Ram mandir,dhauli shanti stupa,12
+Ram mandir,Pathanisamanta planetarium,3.2
+Ram mandir,lingaraj temple,5.5
+Ram mandir,rajarani temple,4.7
+Ram mandir,mukteswara temple,5.2
+Ram mandir,Ram mandir,0
+Ram mandir,Ananta basudev temple,5.1
+Ram mandir,ISKON Temple,6.7
+Ram mandir,Bindu Sarovara,4.9
+Ram mandir,Kedar Gouri Temple,5
+Ram mandir,Ekamra Kanan Botanical Garden,8.4
+Ram mandir,Chandaka Reserve forest,31
+Ram mandir,Tikarpada wildlife Sanctuary,0
+Ram mandir,Nandanakanan Zoological park,16
+Ram mandir,Ocean world water park,22
+Ram mandir,Chilika lake,0
+Ram mandir,Indira Gandhi park,2.3
+Ram mandir,Udayagiri and khandagiri caves,11
+Ram mandir,Biju pattnaik park,3.7
+Ananta basudev temple,Baramunda Bus Stand,8.1
+Ananta basudev temple,dhauli shanti stupa,7.4
+Ananta basudev temple,Pathanisamanta planetarium,7.7
+Ananta basudev temple,lingaraj temple,0.8
+Ananta basudev temple,rajarani temple,1.2
+Ananta basudev temple,mukteswara temple,1.2
+Ananta basudev temple,Ram mandir,4.9
+Ananta basudev temple,Ananta basudev temple,0
+Ananta basudev temple,ISKON Temple,8.3
+Ananta basudev temple,Bindu Sarovara,0.2
+Ananta basudev temple,Kedar Gouri Temple,0.8
+Ananta basudev temple,Ekamra Kanan Botanical Garden,9.9
+Ananta basudev temple,Chandaka Reserve forest,32
+Ananta basudev temple,Tikarpada wildlife Sanctuary,0
+Ananta basudev temple,Nandanakanan Zoological park,20
+Ananta basudev temple,Ocean world water park,17
+Ananta basudev temple,Chilika lake,0
+Ananta basudev temple,Indira Gandhi park,4
+Ananta basudev temple,Udayagiri and khandagiri caves,9.2
+Ananta basudev temple,Biju pattnaik park,2.6
+ISKON Temple,Baramunda Bus Stand,3.9
+ISKON Temple,dhauli shanti stupa,15
+ISKON Temple,Pathanisamanta planetarium,2.5
+ISKON Temple,lingaraj temple,9.1
+ISKON Temple,rajarani temple,8.3
+ISKON Temple,mukteswara temple,8.8
+ISKON Temple,Ram mandir,5.7
+ISKON Temple,Ananta basudev temple,8.6
+ISKON Temple,ISKON Temple,0
+ISKON Temple,Bindu Sarovara,8.6
+ISKON Temple,Kedar Gouri Temple,8.6
+ISKON Temple,Ekamra Kanan Botanical Garden,2.7
+ISKON Temple,Chandaka Reserve forest,27
+ISKON Temple,Tikarpada wildlife Sanctuary,0
+ISKON Temple,Nandanakanan Zoological park,13
+ISKON Temple,Ocean world water park,23
+ISKON Temple,Chilika lake,0
+ISKON Temple,Indira Gandhi park,4.4
+ISKON Temple,Udayagiri and khandagiri caves,6.8
+ISKON Temple,Biju pattnaik park,6.2
+Bindu Sarovara,Baramunda Bus Stand,8
+Bindu Sarovara,dhauli shanti stupa,7.5
+Bindu Sarovara,Pathanisamanta planetarium,7.5
+Bindu Sarovara,lingaraj temple,0.8
+Bindu Sarovara,rajarani temple,1.1
+Bindu Sarovara,mukteswara temple,1.2
+Bindu Sarovara,Ram mandir,4.7
+Bindu Sarovara,Ananta basudev temple,0.2
+Bindu Sarovara,ISKON Temple,8.1
+Bindu Sarovara,Bindu Sarovara,0
+Bindu Sarovara,Kedar Gouri Temple,0.5
+Bindu Sarovara,Ekamra Kanan Botanical Garden,9.7
+Bindu Sarovara,Chandaka Reserve forest,31
+Bindu Sarovara,Tikarpada wildlife Sanctuary,0
+Bindu Sarovara,Nandanakanan Zoological park,19
+Bindu Sarovara,Ocean world water park,17
+Bindu Sarovara,Chilika lake,0
+Bindu Sarovara,Indira Gandhi park,3.9
+Bindu Sarovara,Udayagiri and khandagiri caves,9.4
+Bindu Sarovara,Biju pattnaik park,2.5
+Kedar Gouri Temple,Baramunda Bus Stand,8.1
+Kedar Gouri Temple,dhauli shanti stupa,7.9
+Kedar Gouri Temple,Pathanisamanta planetarium,7.4
+Kedar Gouri Temple,lingaraj temple,1.2
+Kedar Gouri Temple,rajarani temple,1.2
+Kedar Gouri Temple,mukteswara temple,1.2
+Kedar Gouri Temple,Ram mandir,4.5
+Kedar Gouri Temple,Ananta basudev temple,0.7
+Kedar Gouri Temple,ISKON Temple,8.2
+Kedar Gouri Temple,Bindu Sarovara,0.6
+Kedar Gouri Temple,Kedar Gouri Temple,0
+Kedar Gouri Temple,Ekamra Kanan Botanical Garden,9.8
+Kedar Gouri Temple,Chandaka Reserve forest,31
+Kedar Gouri Temple,Tikarpada wildlife Sanctuary,0
+Kedar Gouri Temple,Nandanakanan Zoological park,20
+Kedar Gouri Temple,Ocean world water park,17
+Kedar Gouri Temple,Chilika lake,0
+Kedar Gouri Temple,Indira Gandhi park,3.9
+Kedar Gouri Temple,Udayagiri and khandagiri caves,10
+Kedar Gouri Temple,Biju pattnaik park,2.6
+Ekamra Kanan Botanical Garden,Baramunda Bus Stand,5
+Ekamra Kanan Botanical Garden,dhauli shanti stupa,24
+Ekamra Kanan Botanical Garden,Pathanisamanta planetarium,4.5
+Ekamra Kanan Botanical Garden,lingaraj temple,10
+Ekamra Kanan Botanical Garden,rajarani temple,9.5
+Ekamra Kanan Botanical Garden,mukteswara temple,10
+Ekamra Kanan Botanical Garden,Ram mandir,7.4
+Ekamra Kanan Botanical Garden,Ananta basudev temple,9.8
+Ekamra Kanan Botanical Garden,ISKON Temple,2.8
+Ekamra Kanan Botanical Garden,Bindu Sarovara,9.6
+Ekamra Kanan Botanical Garden,Kedar Gouri Temple,9.7
+Ekamra Kanan Botanical Garden,Ekamra Kanan Botanical Garden,0
+Ekamra Kanan Botanical Garden,Chandaka Reserve forest,27
+Ekamra Kanan Botanical Garden,Tikarpada wildlife Sanctuary,0
+Ekamra Kanan Botanical Garden,Nandanakanan Zoological park,14
+Ekamra Kanan Botanical Garden,Ocean world water park,26
+Ekamra Kanan Botanical Garden,Chilika lake,0
+Ekamra Kanan Botanical Garden,Indira Gandhi park,6.4
+Ekamra Kanan Botanical Garden,Udayagiri and khandagiri caves,7.9
+Ekamra Kanan Botanical Garden,Biju pattnaik park,7.4
+Chandaka Reserve forest,Baramunda Bus Stand,24
+Chandaka Reserve forest,dhauli shanti stupa,43
+Chandaka Reserve forest,Pathanisamanta planetarium,32
+Chandaka Reserve forest,lingaraj temple,30
+Chandaka Reserve forest,rajarani temple,36
+Chandaka Reserve forest,mukteswara temple,36
+Chandaka Reserve forest,Ram mandir,30
+Chandaka Reserve forest,Ananta basudev temple,30
+Chandaka Reserve forest,ISKON Temple,30
+Chandaka Reserve forest,Bindu Sarovara,35
+Chandaka Reserve forest,Kedar Gouri Temple,30
+Chandaka Reserve forest,Ekamra Kanan Botanical Garden,30
+Chandaka Reserve forest,Chandaka Reserve forest,28
+Chandaka Reserve forest,Tikarpada wildlife Sanctuary,0
+Chandaka Reserve forest,Nandanakanan Zoological park,28
+Chandaka Reserve forest,Ocean world water park,46
+Chandaka Reserve forest,Chilika lake,0
+Chandaka Reserve forest,Indira Gandhi park,33
+Chandaka Reserve forest,Udayagiri and khandagiri caves,24
+Chandaka Reserve forest,Biju pattnaik park,33
+Tikarpada wildlife Sanctuary,Baramunda Bus Stand,139
+Tikarpada wildlife Sanctuary,dhauli shanti stupa,0
+Tikarpada wildlife Sanctuary,Pathanisamanta planetarium,0
+Tikarpada wildlife Sanctuary,lingaraj temple,0
+Tikarpada wildlife Sanctuary,rajarani temple,0
+Tikarpada wildlife Sanctuary,mukteswara temple,0
+Tikarpada wildlife Sanctuary,Ram mandir,0
+Tikarpada wildlife Sanctuary,Ananta basudev temple,0
+Tikarpada wildlife Sanctuary,ISKON Temple,0
+Tikarpada wildlife Sanctuary,Bindu Sarovara,0
+Tikarpada wildlife Sanctuary,Kedar Gouri Temple,0
+Tikarpada wildlife Sanctuary,Ekamra Kanan Botanical Garden,0
+Tikarpada wildlife Sanctuary,Chandaka Reserve forest,0
+Tikarpada wildlife Sanctuary,Tikarpada wildlife Sanctuary,0
+Tikarpada wildlife Sanctuary,Nandanakanan Zoological park,0
+Tikarpada wildlife Sanctuary,Ocean world water park,0
+Tikarpada wildlife Sanctuary,Chilika lake,0
+Tikarpada wildlife Sanctuary,Indira Gandhi park,0
+Tikarpada wildlife Sanctuary,Udayagiri and khandagiri caves,0
+Tikarpada wildlife Sanctuary,Biju pattnaik park,0
+Nandanakanan Zoological park,Baramunda Bus Stand,17
+Nandanakanan Zoological park,dhauli shanti stupa,27
+Nandanakanan Zoological park,Pathanisamanta planetarium,13
+Nandanakanan Zoological park,lingaraj temple,21
+Nandanakanan Zoological park,rajarani temple,20
+Nandanakanan Zoological park,mukteswara temple,20
+Nandanakanan Zoological park,Ram mandir,17
+Nandanakanan Zoological park,Ananta basudev temple,20
+Nandanakanan Zoological park,ISKON Temple,15
+Nandanakanan Zoological park,Bindu Sarovara,20
+Nandanakanan Zoological park,Kedar Gouri Temple,20
+Nandanakanan Zoological park,Ekamra Kanan Botanical Garden,15
+Nandanakanan Zoological park,Chandaka Reserve forest,31
+Nandanakanan Zoological park,Tikarpada wildlife Sanctuary,0
+Nandanakanan Zoological park,Nandanakanan Zoological park,0
+Nandanakanan Zoological park,Ocean world water park,23
+Nandanakanan Zoological park,Chilika lake,0
+Nandanakanan Zoological park,Indira Gandhi park,16
+Nandanakanan Zoological park,Udayagiri and khandagiri caves,20
+Nandanakanan Zoological park,Biju pattnaik park,18
+Ocean world water park,Baramunda Bus Stand,24
+Ocean world water park,dhauli shanti stupa,21
+Ocean world water park,Pathanisamanta planetarium,18
+Ocean world water park,lingaraj temple,18
+Ocean world water park,rajarani temple,16
+Ocean world water park,mukteswara temple,17
+Ocean world water park,Ram mandir,19
+Ocean world water park,Ananta basudev temple,17
+Ocean world water park,ISKON Temple,22
+Ocean world water park,Bindu Sarovara,17
+Ocean world water park,Kedar Gouri Temple,17
+Ocean world water park,Ekamra Kanan Botanical Garden,23
+Ocean world water park,Chandaka Reserve forest,48
+Ocean world water park,Tikarpada wildlife Sanctuary,0
+Ocean world water park,Nandanakanan Zoological park,24
+Ocean world water park,Ocean world water park,0
+Ocean world water park,Chilika lake,0
+Ocean world water park,Indira Gandhi park,21
+Ocean world water park,Udayagiri and khandagiri caves,27
+Ocean world water park,Biju pattnaik park,19
+Chilika lake,Baramunda Bus Stand,39
+Chilika lake,dhauli shanti stupa,0
+Chilika lake,Pathanisamanta planetarium,0
+Chilika lake,lingaraj temple,0
+Chilika lake,rajarani temple,0
+Chilika lake,mukteswara temple,0
+Chilika lake,Ram mandir,0
+Chilika lake,Ananta basudev temple,0
+Chilika lake,ISKON Temple,0
+Chilika lake,Bindu Sarovara,0
+Chilika lake,Kedar Gouri Temple,0
+Chilika lake,Ekamra Kanan Botanical Garden,0
+Chilika lake,Chandaka Reserve forest,0
+Chilika lake,Tikarpada wildlife Sanctuary,0
+Chilika lake,Nandanakanan Zoological park,0
+Chilika lake,Ocean world water park,0
+Chilika lake,Chilika lake,0
+Chilika lake,Indira Gandhi park,0
+Chilika lake,Udayagiri and khandagiri caves,0
+Chilika lake,Biju pattnaik park,0
+Indira Gandhi park,Baramunda Bus Stand,5.9
+Indira Gandhi park,dhauli shanti stupa,11
+Indira Gandhi park,Pathanisamanta planetarium,3.7
+Indira Gandhi park,lingaraj temple,4.5
+Indira Gandhi park,rajarani temple,3.6
+Indira Gandhi park,mukteswara temple,4.2
+Indira Gandhi park,Ram mandir,2.3
+Indira Gandhi park,Ananta basudev temple,4
+Indira Gandhi park,ISKON Temple,4.9
+Indira Gandhi park,Bindu Sarovara,3.9
+Indira Gandhi park,Kedar Gouri Temple,4
+Indira Gandhi park,Ekamra Kanan Botanical Garden,6.5
+Indira Gandhi park,Chandaka Reserve forest,29
+Indira Gandhi park,Tikarpada wildlife Sanctuary,0
+Indira Gandhi park,Nandanakanan Zoological park,16
+Indira Gandhi park,Ocean world water park,19
+Indira Gandhi park,Chilika lake,0
+Indira Gandhi park,Indira Gandhi park,0
+Indira Gandhi park,Udayagiri and khandagiri caves,8.8
+Indira Gandhi park,Biju pattnaik park,2.3
+Udayagiri and khandagiri caves,Baramunda Bus Stand,3.6
+Udayagiri and khandagiri caves,dhauli shanti stupa,16
+Udayagiri and khandagiri caves,Pathanisamanta planetarium,8.7
+Udayagiri and khandagiri caves,lingaraj temple,9.7
+Udayagiri and khandagiri caves,rajarani temple,12
+Udayagiri and khandagiri caves,mukteswara temple,11
+Udayagiri and khandagiri caves,Ram mandir,11
+Udayagiri and khandagiri caves,Ananta basudev temple,9.8
+Udayagiri and khandagiri caves,ISKON Temple,6.2
+Udayagiri and khandagiri caves,Bindu Sarovara,10
+Udayagiri and khandagiri caves,Kedar Gouri Temple,10
+Udayagiri and khandagiri caves,Ekamra Kanan Botanical Garden,7.9
+Udayagiri and khandagiri caves,Chandaka Reserve forest,25
+Udayagiri and khandagiri caves,Tikarpada wildlife Sanctuary,0
+Udayagiri and khandagiri caves,Nandanakanan Zoological park,20
+Udayagiri and khandagiri caves,Ocean world water park,30
+Udayagiri and khandagiri caves,Chilika lake,0
+Udayagiri and khandagiri caves,Indira Gandhi park,8.9
+Udayagiri and khandagiri caves,Udayagiri and khandagiri caves,0
+Udayagiri and khandagiri caves,Biju pattnaik park,8.1
+Biju pattnaik park,Baramunda Bus Stand,5.7
+Biju pattnaik park,dhauli shanti stupa,11
+Biju pattnaik park,Pathanisamanta planetarium,4.9
+Biju pattnaik park,lingaraj temple,3.7
+Biju pattnaik park,rajarani temple,3.5
+Biju pattnaik park,mukteswara temple,4
+Biju pattnaik park,Ram mandir,3.8
+Biju pattnaik park,Ananta basudev temple,3.3
+Biju pattnaik park,ISKON Temple,5.6
+Biju pattnaik park,Bindu Sarovara,3.1
+Biju pattnaik park,Kedar Gouri Temple,3.2
+Biju pattnaik park,Ekamra Kanan Botanical Garden,7.3
+Biju pattnaik park,Chandaka Reserve forest,29
+Biju pattnaik park,Tikarpada wildlife Sanctuary,0
+Biju pattnaik park,Nandanakanan Zoological park,17
+Biju pattnaik park,Ocean world water park,19
+Biju pattnaik park,Chilika lake,0
+Biju pattnaik park,Indira Gandhi park,1.7
+Biju pattnaik park,Udayagiri and khandagiri caves,7.9
+Biju pattnaik park,Biju pattnaik park,0

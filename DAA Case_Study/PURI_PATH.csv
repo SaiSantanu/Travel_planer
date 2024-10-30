@@ -1,0 +1,343 @@
+node1,node2,distance(Km.)
+Puri bus stand,Sri jagannath puri temple,1.6
+Puri bus stand,Puri beach,3.1
+Puri bus stand,Narendra tank,1.1
+Puri bus stand,sudarshan crafts museum,1.4
+Puri bus stand,gundicha temple,1.3
+Puri bus stand,raghurajpur artist village,11
+Puri bus stand,markandeswar temple,2.3
+Puri bus stand,sakhi gopal temple,19
+Puri bus stand,lakshmi temple,3
+Puri bus stand,swargadwar beach,3.6
+Puri bus stand,vimala temple,1
+Puri bus stand,lokanath temple,3.7
+Puri bus stand,alarnatha temple,3
+Puri bus stand,baliharachandi beach,21
+Puri bus stand,mausima temple,1
+Puri bus stand, wonder world water park,10
+Puri bus stand,konark temple,34
+Puri bus stand,pipili,37
+Sri jagannath puri temple,Puri bus stand,1.6
+Sri jagannath puri temple,Puri beach,1
+Sri jagannath puri temple,Narendra tank,1.2
+Sri jagannath puri temple,sudarshan crafts museum,2.5
+Sri jagannath puri temple,gundicha temple,3
+Sri jagannath puri temple,raghurajpur artist village,15
+Sri jagannath puri temple,markandeswar temple,2.5
+Sri jagannath puri temple,sakhi gopal temple,21
+Sri jagannath puri temple,lakshmi temple,1
+Sri jagannath puri temple,swargadwar beach,2
+Sri jagannath puri temple,vimala temple,1
+Sri jagannath puri temple,lokanath temple,3
+Sri jagannath puri temple,alarnatha temple,2
+Sri jagannath puri temple,baliharachandi beach,20
+Sri jagannath puri temple,mausima temple,2
+Sri jagannath puri temple, wonder world water park,12
+Sri jagannath puri temple,konark temple,36
+Sri jagannath puri temple,pipili,39
+Puri beach,Puri bus stand,3.1
+Puri beach,Sri jagannath puri temple,1
+Puri beach,Narendra tank,2
+Puri beach,sudarshan crafts museum,4
+Puri beach,gundicha temple,4
+Puri beach,raghurajpur artist village,17
+Puri beach,markandeswar temple,3
+Puri beach,sakhi gopal temple,23
+Puri beach,lakshmi temple,2
+Puri beach,swargadwar beach,1
+Puri beach,vimala temple,2
+Puri beach,lokanath temple,2
+Puri beach,alarnatha temple,3
+Puri beach,baliharachandi beach,18
+Puri beach,mausima temple,3
+Puri beach, wonder world water park,14
+Puri beach,konark temple,38
+Puri beach,pipili,40
+Narendra tank,Puri bus stand,2
+Narendra tank,Sri jagannath puri temple,1.2
+Narendra tank,Puri beach,2
+Narendra tank,sudarshan crafts museum,3
+Narendra tank,gundicha temple,3.5
+Narendra tank,raghurajpur artist village,18
+Narendra tank,markandeswar temple,2
+Narendra tank,sakhi gopal temple,21
+Narendra tank,lakshmi temple,1.5
+Narendra tank,swargadwar beach,2
+Narendra tank,vimala temple,1.5
+Narendra tank,lokanath temple,2.5
+Narendra tank,alarnatha temple,3
+Narendra tank,baliharachandi beach,17
+Narendra tank,mausima temple,2
+Narendra tank, wonder world water park,13
+Narendra tank,konark temple,37
+Narendra tank,pipili,38
+sudarshan crafts museum,puri bus stand,1.4
+sudarshan crafts museum,Sri jagannath puri temple,2.5
+sudarshan crafts museum,Puri beach,4
+sudarshan crafts museum,Narendra tank,3
+sudarshan crafts museum,gundicha temple,6
+sudarshan crafts museum,raghurajpur artist village,20
+sudarshan crafts museum,markandeswar temple,3
+sudarshan crafts museum,sakhi gopal temple,24
+sudarshan crafts museum,lakshmi temple,2.5
+sudarshan crafts museum,swargadwar beach,2
+sudarshan crafts museum,vimala temple,2.5
+sudarshan crafts museum,lokanath temple,3.5
+sudarshan crafts museum,alarnatha temple,3
+sudarshan crafts museum,baliharachandi beach,23
+sudarshan crafts museum,mausima temple,4
+sudarshan crafts museum, wonder world water park,15
+sudarshan crafts museum,konark temple,39
+sudarshan crafts museum,pipili,42
+gundicha temple,puri bus stand,1.3
+gundicha temple,Sri jagannath puri temple,3
+gundicha temple,Puri beach,4
+gundicha temple,Narendra tank,3.5
+gundicha temple,sudarshan crafts museum,6
+gundicha temple,raghurajpur artist village,18
+gundicha temple,markandeswar temple,4
+gundicha temple,sakhi gopal temple,24
+gundicha temple,lakshmi temple,4
+gundicha temple,swargadwar beach,3
+gundicha temple,vimala temple,4
+gundicha temple,lokanath temple,5
+gundicha temple,alarnatha temple,3
+gundicha temple,baliharachandi beach,24
+gundicha temple,mausima temple,3
+gundicha temple, wonder world water park,16
+gundicha temple,konark temple,40
+gundicha temple,pipili,43
+raghurajpur artist village,puri bus stand,11
+raghurajpur artist village,Sri jagannath puri temple,15
+raghurajpur artist village,Puri beach,17
+raghurajpur artist village,Narendra tank,18
+raghurajpur artist village,sudarshan crafts museum,20
+raghurajpur artist village,gundicha temple,18
+raghurajpur artist village,markandeswar temple,16
+raghurajpur artist village,sakhi gopal temple,30
+raghurajpur artist village,lakshmi temple,16
+raghurajpur artist village,swargadwar beach,17
+raghurajpur artist village,vimala temple,16
+raghurajpur artist village,lokanath temple,18
+raghurajpur artist village,alarnatha temple,20
+raghurajpur artist village,baliharachandi beach,38
+raghurajpur artist village,mausima temple,18
+raghurajpur artist village, wonder world water park,28
+raghurajpur artist village,konark temple,42
+raghurajpur artist village,pipili,46
+markandeswar temple,puri bus stand,2.3
+markandeswar temple,Sri jagannath puri temple,2.5
+markandeswar temple,Puri beach,3
+markandeswar temple,Narendra tank,2
+markandeswar temple,sudarshan crafts museum,3
+markandeswar temple,gundicha temple,4
+markandeswar temple,raghurajpur artistic village,16
+markandeswar temple,sakhi gopal temple,17
+markandeswar temple,lakshmi temple,2
+markandeswar temple,swargadwar beach,3
+markandeswar temple,vimala temple,2
+markandeswar temple,lokanath temple,4
+markandeswar temple,alarnatha temple,3.5
+markandeswar temple,baliharachandi beach,22
+markandeswar temple,mausima temple,3.5
+markandeswar temple, wonder world water park,14
+markandeswar temple,konark temple,38
+markandeswar temple,pipili,40
+sakhi gopal temple,puri bus stand,19
+sakhi gopal temple,Sri jagannath puri temple,21
+sakhi gopal temple,Puri beach,23
+sakhi gopal temple,Narendra tank,21
+sakhi gopal temple,sudarshan crafts museum,24
+sakhi gopal temple,gundicha temple,24
+sakhi gopal temple,raghurajpur artistic village,30
+sakhi gopal temple,markandeswar temple,18
+sakhi gopal temple,lakshmi temple,17
+sakhi gopal temple,swargadwar beach,16
+sakhi gopal temple,vimala temple,17.5
+sakhi gopal temple,lokanath temple,18
+sakhi gopal temple,alarnatha temple,16.5
+sakhi gopal temple,baliharachandi beach,35
+sakhi gopal temple,mausima temple,17
+sakhi gopal temple, wonder world water park,28
+sakhi gopal temple,konark temple,48
+sakhi gopal temple,pipili,21
+lakshmi temple,puri bus stand,3
+lakshmi temple,Sri jagannath puri temple,1
+lakshmi temple,Puri beach,2
+lakshmi temple,Narendra tank,1.5
+lakshmi temple,sudarshan crafts museum,2.5
+lakshmi temple,gundicha temple,4
+lakshmi temple,raghurajpur artistic village,16
+lakshmi temple,markandeswar temple,2
+lakshmi temple,sakhi gopal temple,17
+lakshmi temple,swargadwar beach,1.5
+lakshmi temple,vimala temple,2
+lakshmi temple,lokanath temple,2.5
+lakshmi temple,alarnatha temple,3
+lakshmi temple,baliharachandi beach,21
+lakshmi temple,mausima temple,2
+lakshmi temple, wonder world water park,14
+lakshmi temple,konark temple,37
+lakshmi temple,pipili,38.5
+swargadwar beach,puri bus stand,3.6
+swargadwar beach,Sri jagannath puri temple,2
+swargadwar beach,Puri beach,1
+swargadwar beach,Narendra tank,2
+swargadwar beach,sudarshan crafts museum,2
+swargadwar beach,gundicha temple,3
+swargadwar beach,raghurajpur artistic village,17
+swargadwar beach,markandeswar temple,3
+swargadwar beach,sakhi gopal temple,16
+swargadwar beach,lakshmi temple,1.5
+swargadwar beach,vimala temple,2
+swargadwar beach,lokanath temple,2.5
+swargadwar beach,alarnatha temple,3
+swargadwar beach,baliharachandi beach,22
+swargadwar beach,mausima temple,2.5
+swargadwar beach, wonder world water park,14
+swargadwar beach,konark temple,36
+swargadwar beach,pipili,38
+vimala temple,puri bus stand,1
+vimala temple,Sri jagannath puri temple,1
+vimala temple,Puri beach,2
+vimala temple,Narendra tank,1.5
+vimala temple,sudarshan crafts museum,2.5
+vimala temple,gundicha temple,4
+vimala temple,raghurajpur artistic village,16
+vimala temple,markandeswar temple,2
+vimala temple,sakhi gopal temple,17.5
+vimala temple,lakshmi temple,2
+vimala temple,swargadwar beach,2
+vimala temple,lokanath temple,1
+vimala temple,alarnatha temple,2
+vimala temple,baliharachandi beach,21.5
+vimala temple,mausima temple,3
+vimala temple, wonder world water park,13
+vimala temple,konark temple,37.5
+vimala temple,pipili,38.5
+lokanath temple,puri bus stand,3.7
+lokanath temple,Sri jagannath puri temple,3
+lokanath temple,Puri beach,2
+lokanath temple,Narendra tank,2.5
+lokanath temple,sudarshan crafts museum,3.5
+lokanath temple,gundicha temple,5
+lokanath temple,raghurajpur artistic village,18
+lokanath temple,markandeswar temple,4
+lokanath temple,sakhi gopal temple,18
+lokanath temple,lakshmi temple,2.5
+lokanath temple,swargadwar beach,2.5
+lokanath temple,vimala temple,1
+lokanath temple,alarnatha temple,1.5
+lokanath temple,baliharachandi beach,21
+lokanath temple,mausima temple,2
+lokanath temple, wonder world water park,14
+lokanath temple,konark temple,38
+lokanath temple,pipili,40
+alarnatha temple,puri bus stand,3
+alarnatha temple,Sri jagannath puri temple,2
+alarnatha temple,Puri beach,3
+alarnatha temple,Narendra tank,2.5
+alarnatha temple,sudarshan crafts museum,3
+alarnatha temple,gundicha temple,3.5
+alarnatha temple,raghurajpur artistic village,20
+alarnatha temple,markandeswar temple,3.5
+alarnatha temple,sakhi gopal temple,16.5
+alarnatha temple,lakshmi temple,2.5
+alarnatha temple,swargadwar beach,3
+alarnatha temple,vimala temple,2
+alarnatha temple,lokanath temple,1.5
+alarnatha temple,baliharachandi beach,22
+alarnatha temple,mausima temple,2.5
+alarnatha temple, wonder world water park,13
+alarnatha temple,konark temple,37
+alarnatha temple,pipili,38.5
+baliharachandi beach,puri bus stand,21
+baliharachandi beach,Sri jagannath puri temple,20
+baliharachandi beach,Puri beach,18
+baliharachandi beach,Narendra tank,17
+baliharachandi beach,sudarshan crafts museum,23
+baliharachandi beach,gundicha temple,24
+baliharachandi beach,raghurajpur artistic village,38
+baliharachandi beach,markandeswar temple,22
+baliharachandi beach,sakhi gopal temple,35
+baliharachandi beach,lakshmi temple,21
+baliharachandi beach,swargadwar beach,22
+baliharachandi beach,vimala temple,21.5
+baliharachandi beach,lokanath temple,21
+baliharachandi beach,alarnatha temple,22
+baliharachandi beach,mausima temple,22
+baliharachandi beach, wonder world water park,32
+baliharachandi beach,konark temple,46
+baliharachandi beach,pipili,48
+mausima temple,puri bus stand,1
+mausima temple,Sri jagannath puri temple,2
+mausima temple,Puri beach,3
+mausima temple,Narendra tank,2
+mausima temple,sudarshan crafts museum,4
+mausima temple,gundicha temple,3
+mausima temple,raghurajpur artistic village,18
+mausima temple,markandeswar temple,3.5
+mausima temple,sakhi gopal temple,17
+mausima temple,lakshmi temple,2
+mausima temple,swargadwar beach,2.5
+mausima temple,vimala temple,3
+mausima temple,lokanath temple,2
+mausima temple,alarnatha temple,2.5
+mausima temple,baliharachandi beach,22
+mausima temple, wonder world water park,14.5
+mausima temple,konark temple,36.5
+mausima temple,pipili,38
+ wonder world water park,puri bus stand,10
+ wonder world water park,Sri jagannath puri temple,12
+ wonder world water park,Puri beach,14
+ wonder world water park,Narendra tank,13
+ wonder world water park,sudarshan crafts museum,15
+ wonder world water park,gundicha temple,16
+ wonder world water park,raghurajpur artistic village,28
+ wonder world water park,markandeswar temple,14
+ wonder world water park,sakhi gopal temple,28
+ wonder world water park,lakshmi temple,14
+ wonder world water park,swargadwar beach,14
+ wonder world water park,vimala temple,13
+ wonder world water park,lokanath temple,14
+ wonder world water park,alarnatha temple,13
+ wonder world water park,baliharachandi beach,32
+ wonder world water park,mausima temple,14.5
+ wonder world water park,konark temple,37
+ wonder world water park,pipili,30
+konark temple,puri bus stand,34
+konark temple,Sri jagannath puri temple,36
+konark temple,Puri beach,38
+konark temple,Narendra tank,37
+konark temple,sudarshan crafts museum,39
+konark temple,gundicha temple,40
+konark temple,raghurajpur artistic village,42
+konark temple,markandeswar temple,38
+konark temple,sakhi gopal temple,48
+konark temple,lakshmi temple,37
+konark temple,swargadwar beach,36
+konark temple,vimala temple,37.5
+konark temple,lokanath temple,38
+konark temple,alarnatha temple,37
+konark temple,baliharachandi beach,46
+konark temple,mausima temple,36.5
+konark temple, wonder world water park,37
+konark temple,pipili,45
+pipili,puri bus stand,37
+pipili,Sri jagannath puri temple,39
+pipili,Puri beach,40
+pipili,Narendra tank,38
+pipili,sudarshan crafts museum,42
+pipili,gundicha temple,43
+pipili,raghurajpur artistic village,46
+pipili,markandeswar temple,40
+pipili,sakhi gopal temple,21
+pipili,lakshmi temple,38.5
+pipili,swargadwar beach,38
+pipili,vimala temple,38.5
+pipili,lokanath temple,40
+pipili,alarnatha temple,38.5
+pipili,baliharachandi beach,48
+pipili,mausima temple,38
+pipili, wonder world water park,30
+pipili,konark temple,45

@@ -1,0 +1,290 @@
+node1,node2,distance(Km.)
+Netaji subash Ch. Busstand,Netaji subash Ch. Busstand,0
+Netaji subash Ch. Busstand,Barabati Fort,6
+Netaji subash Ch. Busstand,Barabati Stadium,4.5
+Netaji subash Ch. Busstand,Maa Cuttack Chandi Temple,4.6
+Netaji subash Ch. Busstand,Netaji Birth Place Museum,3.3
+Netaji subash Ch. Busstand,Shree Singhanath Temple,64.5
+Netaji subash Ch. Busstand,Paradeep Sea Beach,94.5
+Netaji subash Ch. Busstand,Shree Dhabaleswar Temple,34.4
+Netaji subash Ch. Busstand,Odisha Maritime Museum,4.4
+Netaji subash Ch. Busstand,Deer Park,6.6
+Netaji subash Ch. Busstand,Baliyatra Ground,6.4
+Netaji subash Ch. Busstand,Anshupa Lake,41.6
+Netaji subash Ch. Busstand,Peacock Valley,15.3
+Netaji subash Ch. Busstand,Mahanadi (T) Bridge,7
+Netaji subash Ch. Busstand,State Botanical Garden,12
+Netaji subash Ch. Busstand,Maa Charchika Temple,42.1
+Netaji subash Ch. Busstand,Chaudwar,18.6
+Barabati Fort,Netaji subash Ch. Busstand,6
+Barabati Fort,Barabati Fort,0
+Barabati Fort,Barabati Stadium,0.75
+Barabati Fort,Maa Cuttack Chandi Temple,1.5
+Barabati Fort,Netaji Birth Place Museum,2.7
+Barabati Fort,Shree Singhanath Temple,66.7
+Barabati Fort,Paradeep Sea Beach,97.4
+Barabati Fort,Shree Dhabaleswar Temple,38.6
+Barabati Fort,Odisha Maritime Museum,5
+Barabati Fort,Deer Park,1.6
+Barabati Fort,Baliyatra Ground,1.5
+Barabati Fort,Anshupa Lake,42.9
+Barabati Fort,Peacock Valley,15.2
+Barabati Fort,Mahanadi (T) Bridge,8.2
+Barabati Fort,State Botanical Garden,12
+Barabati Fort,Maa Charchika Temple,46.3
+Barabati Fort,Chaudwar,14.8
+Barabati Stadium,Netaji subash Ch. Busstand,4.5
+Barabati Stadium,Barabati Fort,0.8
+Barabati Stadium,Barabati Stadium,0
+Barabati Stadium,Maa Cuttack Chandi Temple,1
+Barabati Stadium,Netaji Birth Place Museum,2.3
+Barabati Stadium,Shree Singhanath Temple,66.5
+Barabati Stadium,Paradeep Sea Beach,96.8
+Barabati Stadium,Shree Dhabaleswar Temple,37.8
+Barabati Stadium,Odisha Maritime Museum,4.5
+Barabati Stadium,Deer Park,1.3
+Barabati Stadium,Baliyatra Ground,0.95
+Barabati Stadium,Anshupa Lake,42.7
+Barabati Stadium,Peacock Valley,15
+Barabati Stadium,Mahanadi (T) Bridge,7.5
+Barabati Stadium,State Botanical Garden,11.6
+Barabati Stadium,Maa Charchika Temple,45.5
+Barabati Stadium,Chaudwar,14.2
+Maa Cuttack Chandi Temple,Netaji subash Ch. Busstand,4.6
+Maa Cuttack Chandi Temple,Barabati Fort,1.5
+Maa Cuttack Chandi Temple,Barabati Stadium,1.2
+Maa Cuttack Chandi Temple,Maa Cuttack Chandi Temple,0
+Maa Cuttack Chandi Temple,Netaji Birth Place Museum,1.1
+Maa Cuttack Chandi Temple,Shree Singhanath Temple,64
+Maa Cuttack Chandi Temple,Paradeep Sea Beach,97.8
+Maa Cuttack Chandi Temple,Shree Dhabaleswar Temple,38.1
+Maa Cuttack Chandi Temple,Odisha Maritime Museum,5.4
+Maa Cuttack Chandi Temple,Deer Park,1.8
+Maa Cuttack Chandi Temple,Baliyatra Ground,1.9
+Maa Cuttack Chandi Temple,Anshupa Lake,40.2
+Maa Cuttack Chandi Temple,Peacock Valley,13.6
+Maa Cuttack Chandi Temple,Mahanadi (T) Bridge,8.6
+Maa Cuttack Chandi Temple,State Botanical Garden,10.6
+Maa Cuttack Chandi Temple,Maa Charchika Temple,45.8
+Maa Cuttack Chandi Temple,Chaudwar,15.2
+Netaji Birth Place Museum,Netaji subash Ch. Busstand,3.3
+Netaji Birth Place Museum,Barabati Fort,5
+Netaji Birth Place Museum,Barabati Stadium,4.3
+Netaji Birth Place Museum,Maa Cuttack Chandi Temple,4.9
+Netaji Birth Place Museum,Netaji Birth Place Museum,3
+Netaji Birth Place Museum,Shree Singhanath Temple,65.7
+Netaji Birth Place Museum,Paradeep Sea Beach,93.7
+Netaji Birth Place Museum,Shree Dhabaleswar Temple,34.2
+Netaji Birth Place Museum,Odisha Maritime Museum,4.2
+Netaji Birth Place Museum,Deer Park,6.9
+Netaji Birth Place Museum,Baliyatra Ground,5.2
+Netaji Birth Place Museum,Anshupa Lake,41.9
+Netaji Birth Place Museum,Peacock Valley,15.6
+Netaji Birth Place Museum,Mahanadi (T) Bridge,6.8
+Netaji Birth Place Museum,State Botanical Garden,28
+Netaji Birth Place Museum,Maa Charchika Temple,44
+Netaji Birth Place Museum,Chaudwar,18.4
+Shree Singhanath Temple,Netaji subash Ch. Busstand,64.5
+Shree Singhanath Temple,Barabati Fort,66.7
+Shree Singhanath Temple,Barabati Stadium,66.5
+Shree Singhanath Temple,Maa Cuttack Chandi Temple,64
+Shree Singhanath Temple,Netaji Birth Place Museum,65.7
+Shree Singhanath Temple,Shree Singhanath Temple,0
+Shree Singhanath Temple,Paradeep Sea Beach,120
+Shree Singhanath Temple,Shree Dhabaleswar Temple,70
+Shree Singhanath Temple,Odisha Maritime Museum,70
+Shree Singhanath Temple,Deer Park,65
+Shree Singhanath Temple,Baliyatra Ground,66
+Shree Singhanath Temple,Anshupa Lake,35
+Shree Singhanath Temple,Peacock Valley,52
+Shree Singhanath Temple,Mahanadi (T) Bridge,77
+Shree Singhanath Temple,State Botanical Garden,68
+Shree Singhanath Temple,Maa Charchika Temple,79
+Shree Singhanath Temple,Chaudwar,73
+Paradeep Sea Beach,Netaji subash Ch. Busstand,94.5
+Paradeep Sea Beach,Barabati Fort,97.4
+Paradeep Sea Beach,Barabati Stadium,96.8
+Paradeep Sea Beach,Maa Cuttack Chandi Temple,97.8
+Paradeep Sea Beach,Netaji Birth Place Museum,93.7
+Paradeep Sea Beach,Shree Singhanath Temple,120
+Paradeep Sea Beach,Paradeep Sea Beach,0
+Paradeep Sea Beach,Shree Dhabaleswar Temple,124
+Paradeep Sea Beach,Odisha Maritime Museum,94
+Paradeep Sea Beach,Deer Park,98
+Paradeep Sea Beach,Baliyatra Ground,97
+Paradeep Sea Beach,Anshupa Lake,135
+Paradeep Sea Beach,Peacock Valley,109
+Paradeep Sea Beach,Mahanadi (T) Bridge,100
+Paradeep Sea Beach,State Botanical Garden,115
+Paradeep Sea Beach,Maa Charchika Temple,103
+Paradeep Sea Beach,Chaudwar,104
+Shree Dhabaleswar Temple,Netaji subash Ch. Busstand,34.4
+Shree Dhabaleswar Temple,Barabati Fort,38.6
+Shree Dhabaleswar Temple,Barabati Stadium,37.8
+Shree Dhabaleswar Temple,Maa Cuttack Chandi Temple,38.1
+Shree Dhabaleswar Temple,Netaji Birth Place Museum,34.2
+Shree Dhabaleswar Temple,Shree Singhanath Temple,70
+Shree Dhabaleswar Temple,Paradeep Sea Beach,124
+Shree Dhabaleswar Temple,Shree Dhabaleswar Temple,0
+Shree Dhabaleswar Temple,Odisha Maritime Museum,37
+Shree Dhabaleswar Temple,Deer Park,41
+Shree Dhabaleswar Temple,Baliyatra Ground,40
+Shree Dhabaleswar Temple,Anshupa Lake,68
+Shree Dhabaleswar Temple,Peacock Valley,44
+Shree Dhabaleswar Temple,Mahanadi (T) Bridge,43
+Shree Dhabaleswar Temple,State Botanical Garden,21
+Shree Dhabaleswar Temple,Maa Charchika Temple,13
+Shree Dhabaleswar Temple,Chaudwar,46
+Odisha Maritime Museum,Netaji subash Ch. Busstand,4.4
+Odisha Maritime Museum,Barabati Fort,5
+Odisha Maritime Museum,Barabati Stadium,4.5
+Odisha Maritime Museum,Maa Cuttack Chandi Temple,5.4
+Odisha Maritime Museum,Netaji Birth Place Museum,4.2
+Odisha Maritime Museum,Shree Singhanath Temple,70
+Odisha Maritime Museum,Paradeep Sea Beach,94
+Odisha Maritime Museum,Shree Dhabaleswar Temple,37
+Odisha Maritime Museum,Odisha Maritime Museum,0
+Odisha Maritime Museum,Deer Park,3.9
+Odisha Maritime Museum,Baliyatra Ground,3.5
+Odisha Maritime Museum,Anshupa Lake,45
+Odisha Maritime Museum,Peacock Valley,17
+Odisha Maritime Museum,Mahanadi (T) Bridge,11
+Odisha Maritime Museum,State Botanical Garden,28
+Odisha Maritime Museum,Maa Charchika Temple,45
+Odisha Maritime Museum,Chaudwar,13
+Deer Park,Netaji subash Ch. Busstand,6.6
+Deer Park,Barabati Fort,1.3
+Deer Park,Barabati Stadium,6.9
+Deer Park,Maa Cuttack Chandi Temple,1.8
+Deer Park,Netaji Birth Place Museum,6.9
+Deer Park,Shree Singhanath Temple,65
+Deer Park,Paradeep Sea Beach,98
+Deer Park,Shree Dhabaleswar Temple,41
+Deer Park,Odisha Maritime Museum,3.9
+Deer Park,Deer Park,0
+Deer Park,Baliyatra Ground,1.5
+Deer Park,Anshupa Lake,41
+Deer Park,Peacock Valley,13
+Deer Park,Mahanadi (T) Bridge,12
+Deer Park,State Botanical Garden,26
+Deer Park,Maa Charchika Temple,47
+Deer Park,Chaudwar,14
+Baliyatra Ground,Netaji subash Ch. Busstand,6.4
+Baliyatra Ground,Barabati Fort,1.5
+Baliyatra Ground,Barabati Stadium,0.95
+Baliyatra Ground,Maa Cuttack Chandi Temple,1.9
+Baliyatra Ground,Netaji Birth Place Museum,5.2
+Baliyatra Ground,Shree Singhanath Temple,66
+Baliyatra Ground,Paradeep Sea Beach,97
+Baliyatra Ground,Shree Dhabaleswar Temple,40
+Baliyatra Ground,Odisha Maritime Museum,3.5
+Baliyatra Ground,Deer Park,1.5
+Baliyatra Ground,Baliyatra Ground,0
+Baliyatra Ground,Anshupa Lake,44
+Baliyatra Ground,Peacock Valley,16
+Baliyatra Ground,Mahanadi (T) Bridge,11
+Baliyatra Ground,State Botanical Garden,29
+Baliyatra Ground,Maa Charchika Temple,46
+Baliyatra Ground,Chaudwar,13
+Anshupa Lake,Netaji subash Ch. Busstand,41.6
+Anshupa Lake,Barabati Fort,42.9
+Anshupa Lake,Barabati Stadium,42.7
+Anshupa Lake,Maa Cuttack Chandi Temple,40.2
+Anshupa Lake,Netaji Birth Place Museum,41.9
+Anshupa Lake,Shree Singhanath Temple,35
+Anshupa Lake,Paradeep Sea Beach,135
+Anshupa Lake,Shree Dhabaleswar Temple,68
+Anshupa Lake,Odisha Maritime Museum,45
+Anshupa Lake,Deer Park,41
+Anshupa Lake,Baliyatra Ground,44
+Anshupa Lake,Anshupa Lake,0
+Anshupa Lake,Peacock Valley,28
+Anshupa Lake,Mahanadi (T) Bridge,51
+Anshupa Lake,State Botanical Garden,52
+Anshupa Lake,Maa Charchika Temple,66
+Anshupa Lake,Chaudwar,46
+Peacock Valley,Netaji subash Ch. Busstand,15.3
+Peacock Valley,Barabati Fort,15.2
+Peacock Valley,Barabati Stadium,15
+Peacock Valley,Maa Cuttack Chandi Temple,13.6
+Peacock Valley,Netaji Birth Place Museum,15.6
+Peacock Valley,Shree Singhanath Temple,52
+Peacock Valley,Paradeep Sea Beach,109
+Peacock Valley,Shree Dhabaleswar Temple,44
+Peacock Valley,Odisha Maritime Museum,17
+Peacock Valley,Deer Park,13
+Peacock Valley,Baliyatra Ground,16
+Peacock Valley,Anshupa Lake,28
+Peacock Valley,Peacock Valley,0
+Peacock Valley,Mahanadi (T) Bridge,26
+Peacock Valley,State Botanical Garden,28
+Peacock Valley,Maa Charchika Temple,50
+Peacock Valley,Chaudwar,24
+Mahanadi (T) Bridge,Netaji subash Ch. Busstand,7
+Mahanadi (T) Bridge,Barabati Fort,8.2
+Mahanadi (T) Bridge,Barabati Stadium,7.5
+Mahanadi (T) Bridge,Maa Cuttack Chandi Temple,8.6
+Mahanadi (T) Bridge,Netaji Birth Place Museum,6.8
+Mahanadi (T) Bridge,Shree Singhanath Temple,77
+Mahanadi (T) Bridge,Paradeep Sea Beach,100
+Mahanadi (T) Bridge,Shree Dhabaleswar Temple,43
+Mahanadi (T) Bridge,Odisha Maritime Museum,11
+Mahanadi (T) Bridge,Deer Park,12
+Mahanadi (T) Bridge,Baliyatra Ground,11
+Mahanadi (T) Bridge,Anshupa Lake,51
+Mahanadi (T) Bridge,Peacock Valley,26
+Mahanadi (T) Bridge,Mahanadi (T) Bridge,0
+Mahanadi (T) Bridge,State Botanical Garden,28
+Mahanadi (T) Bridge,Maa Charchika Temple,44
+Mahanadi (T) Bridge,Chaudwar,16
+State Botanical Garden,Netaji subash Ch. Busstand,12
+State Botanical Garden,Barabati Fort,12
+State Botanical Garden,Barabati Stadium,11.6
+State Botanical Garden,Maa Cuttack Chandi Temple,10.6
+State Botanical Garden,Netaji Birth Place Museum,28
+State Botanical Garden,Shree Singhanath Temple,68
+State Botanical Garden,Paradeep Sea Beach,115
+State Botanical Garden,Shree Dhabaleswar Temple,21
+State Botanical Garden,Odisha Maritime Museum,28
+State Botanical Garden,Deer Park,26
+State Botanical Garden,Baliyatra Ground,29
+State Botanical Garden,Anshupa Lake,52
+State Botanical Garden,Peacock Valley,28
+State Botanical Garden,Mahanadi (T) Bridge,28
+State Botanical Garden,State Botanical Garden,0
+State Botanical Garden,Maa Charchika Temple,23
+State Botanical Garden,Chaudwar,36
+Maa Charchika Temple,Netaji subash Ch. Busstand,42.1
+Maa Charchika Temple,Barabati Fort,46.3
+Maa Charchika Temple,Barabati Stadium,45.5
+Maa Charchika Temple,Maa Cuttack Chandi Temple,45.8
+Maa Charchika Temple,Netaji Birth Place Museum,44
+Maa Charchika Temple,Shree Singhanath Temple,79
+Maa Charchika Temple,Paradeep Sea Beach,103
+Maa Charchika Temple,Shree Dhabaleswar Temple,13
+Maa Charchika Temple,Odisha Maritime Museum,45
+Maa Charchika Temple,Deer Park,47
+Maa Charchika Temple,Baliyatra Ground,46
+Maa Charchika Temple,Anshupa Lake,66
+Maa Charchika Temple,Peacock Valley,50
+Maa Charchika Temple,Mahanadi (T) Bridge,44
+Maa Charchika Temple,State Botanical Garden,23
+Maa Charchika Temple,Maa Charchika Temple,0
+Maa Charchika Temple,Chaudwar,54
+Chaudwar,Netaji subash Ch. Busstand,18.6
+Chaudwar,Barabati Fort,14.8
+Chaudwar,Barabati Stadium,14.2
+Chaudwar,Maa Cuttack Chandi Temple,15.2
+Chaudwar,Netaji Birth Place Museum,18.4
+Chaudwar,Shree Singhanath Temple,73
+Chaudwar,Paradeep Sea Beach,104
+Chaudwar,Shree Dhabaleswar Temple,46
+Chaudwar,Odisha Maritime Museum,13
+Chaudwar,Deer Park,14
+Chaudwar,Baliyatra Ground,13
+Chaudwar,Anshupa Lake,46
+Chaudwar,Peacock Valley,24
+Chaudwar,Mahanadi (T) Bridge,16
+Chaudwar,State Botanical Garden,36
+Chaudwar,Maa Charchika Temple,54
+Chaudwar,Chaudwar,0
